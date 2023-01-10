@@ -1,0 +1,1 @@
+# Solidworks_exporter_script
